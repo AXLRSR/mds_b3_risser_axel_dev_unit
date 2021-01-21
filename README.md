@@ -1,5 +1,7 @@
-# unit_test
-Unit test with Jest
+# Tests unit
 
-# How to execute test ?
+## Install node modules
+npm install
+
+## Launch test
 npm test
